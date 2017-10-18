@@ -30,7 +30,7 @@ If you discover a bug or other problem or maybe just have a suggestion, let me k
 
 <h2>Remix and customize the app</h2>
 
-If you’d rather customize the app to your own purposes, you are free to do so, provided you follow the conditions of the Creative Commons license below.
+If you’d rather customize the app to your own purposes, you are free to do so, provided you follow the conditions of the MIT License below.
 
 Some possible customizations:
 <ul>
@@ -42,5 +42,11 @@ To get the source code, download the .aia file, which you can then import into M
 
 If you do remix or customize the app, I’d love to hear about it and link to it.
 
-<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img class="aligncenter" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
-<p style="text-align: center;">Dissertation Ghost is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</p>
+<h2>MIT License</h2>
+Copyright (c) 2017 Jacob Deppen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
