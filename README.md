@@ -1,7 +1,7 @@
 # dissertation-ghost
 A simple Android counter app
 
-Dissertation Ghost is a simple Android app I created with MIT App Inventor 2 to track progress towards a milestone in my dissertation research.
+Dissertation Ghost is a simple Android app I created with [MIT App Inventor 2](http://appinventor.mit.edu/explore/) to track progress towards a milestone in my [dissertation research](https://jacobdeppen.wordpress.com/).
 
 A big portion of my work is a synthesis and analysis of existing publications and reports, a task I am tackling with qualitative analysis software, NVIVO. I use NVIVO to code digital versions of publications so that I can query and summarize my notations easily.
 
@@ -9,11 +9,11 @@ Dissertation Ghost helps me count how many publications I’ve annotated. It’s
 
 <h2>Why is it called Dissertation Ghost?</h2>
 
-In one of my favorite video games, Super Mario Kart, the Ghost is an opponent you race against in Time Trial mode. The Ghost represents your best time on a course and helps you stay on record pace.
+In one of my favorite video games, Super Mario Kart, the [Ghost](https://www.mariowiki.com/Ghost_(Mario_Kart)) is an opponent you race against in Time Trial mode. The Ghost represents your best time on a course and helps you stay on record pace.
 
 <h2>Download and use the app</h2>
 
-If you think the app might be helpful to you, you can download it for free. The app is not posted in the Google Play Store, so you will need to download and install the .apk file. Some instructions from the MIT App Inventor docs:
+If you think the app might be helpful to you, you can download it for free. The app is not posted in the Google Play Store, so you will need to download and install the .apk file. [Some instructions from the MIT App Inventor docs](http://appinventor.mit.edu/explore/ai2/share.html):
 
 <blockquote>Anyone installing your app (which is an “.apk” file) will need to change the setting on their phone to allow installation of non-market applications:
 
