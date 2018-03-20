@@ -1,4 +1,4 @@
-# dissertation-ghost
+# Dissertation Ghost
 A simple Android counter app
 
 Dissertation Ghost is a simple Android app I created with [MIT App Inventor 2](http://appinventor.mit.edu/explore/) to track progress towards a milestone in my [dissertation research](https://jacobdeppen.wordpress.com/).
